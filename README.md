@@ -5,6 +5,7 @@
 ## Задание: создайте новую ветку и перейдите в неё;
 
 Команды: git branch *branch-name* (Создание ветки)
+
         git checkout *branch-name* (Переход на созданную ветку)
 
 
@@ -12,4 +13,5 @@
 
 Команды: git checkout master (Переход на осоновную ветку)
         git remote add origin https://github.com/DyachenkoVadim/lesson-11.git (Запись удаленного репозитория)
+        
         git push -u origin master (Запись на удаленный репозиторий ветки master)
